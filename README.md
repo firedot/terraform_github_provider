@@ -45,4 +45,4 @@ terraform apply
 
 6. Add description for your GitHub repository. 
 
- This process will  create a repository with the name ** *repo1* **  and will provide admin permissions to the user whose username you provided. 
+ This process will  create a repository with the name **repo1**  and will provide admin permissions to the user whose username you provided. 
