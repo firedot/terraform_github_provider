@@ -41,8 +41,8 @@ terraform init
 ```
 terraform apply
 ```
-5. Enter the GitHub username of the user which you want to add as a collaborater. 
+5. Enter the GitHub username of the user which you want to add as a collaborator. 
 
-6. Add description for your repository. 
+6. Add description for your GitHub repository. 
 
  This process will  create a repository with the name ** *repo1* **  and will provide admin permissions to the user whose username you provided. 
